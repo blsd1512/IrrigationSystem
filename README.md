@@ -1,4 +1,4 @@
-# IrrigationSystem
+# Advance Irrigation System
 This repository will have all open source code of my group's irrigation system
 
 More on our project here: 
